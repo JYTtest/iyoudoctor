@@ -1,0 +1,1 @@
+This is a mobile terminal platform
